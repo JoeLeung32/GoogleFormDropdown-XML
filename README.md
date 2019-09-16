@@ -19,7 +19,7 @@
 1. Add your code in **Script editor**
     1. On your computer, open a spreadsheet at [sheets.google.com](sheets.google.com).
     1. Click Tools and then Script editor.
-    1. Paste our [code.gs](https://github.com/JoeLeung32/google_form_sheet_script_integration_with_xml/blob/master/googeScript/code.gs).
+    1. Paste our [code.gs](https://github.com/JoeLeung32/GoogleFormDropdown-XML/blob/master/SampleCode/GoogleScript/code.gs).
     1. Fill up your collected data: formId, data-item-id and XML URL.
     1. Click Save.
 1. Setup your Project Triggers
